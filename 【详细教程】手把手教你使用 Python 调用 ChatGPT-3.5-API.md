@@ -67,13 +67,6 @@ rsp = openai.ChatCompletion.create(
 - -  messages 是请求的文本内容，是一个列表，列表里每个元素类型是字典，具体含义如下表：
 ![](https://img-blog.csdnimg.cn/img_convert/ef7a2de5c6a56d3aaabe4941608d57b6.png)
 
-|参数|参数值|含义|
-|:--:|:--:|--|
-|role|system|可以设置机器人人设|
-|role|assistant|表示是机器人回复内容|
-|role|user|表示是用户提问内容|
-|content|q|问题内容|
-
 - 程序运行返回内容，从响应回复内容我们可以看到，回复内容是一个 json 字符串，
 ![](https://img-blog.csdnimg.cn/img_convert/28ad79090ccb453e19fd0b9c305ad14a.png)
 我们可以通过以下方法直接获取相关信息：
