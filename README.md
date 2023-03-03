@@ -2,13 +2,6 @@
 
 ```bash
 .
-├── LICENSE   
-├── demo-cmd.py   # 教程中多轮对话代码案例
-├── demo.ipynb    # 教程中所有代码及注释
-├── envs          # 存放 key
-│   └── openai_key
-└── 【详细教程】手把手教你使用 Python 调用 ChatGPT-3.5-API.md   # 教程内容
-.
 ├── LICENSE
 ├── README.md      # 项目说明文件
 ├── demo-cmd.py    # 教程中多轮对话代码案例
