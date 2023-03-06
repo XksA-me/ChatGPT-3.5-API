@@ -61,3 +61,35 @@ python demo-cmd.py
 </center>
 
 
+## 项目更新计划
+
+### 2023.3.3
+
+- 基于最新模型 gpt-3.5-turbo
+- 支持多轮对话
+- 仅实现 Python 控制台应用
+程序代码文件：[demo-cmd.py](https://github.com/XksA-me/ChatGPT-3.5-API/blob/master/demo-cmd.py)
+
+### 2023.3.x
+
+**开发ing:**（预计本周上线）
+- 基于flask，构建 chatgpt api
+- 支持根据用户账号密码自动生成 token
+- 支持限制单用户没日访问次数
+- 支持设置token有效期
+
+
+**下一步开发计划:**(预计下周上线)
+
+- 基于 pywebio/streamlit 的web 页面应用
+
+**再下一步:**
+- 基于flask的web页面应用
+- 支持登录注册
+- 限制单用户单日访问次数
+
+**再再下一步:**
+- 钉钉机器人，可以参考项目[DingdingBot](https://github.com/XksA-me/DingdingBot)
+- 飞书机器人，如果有人有需要的话
+
+[更多需求可以点击这里交流](https://github.com/XksA-me/ChatGPT-3.5-API/issues/2)
