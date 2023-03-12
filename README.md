@@ -73,18 +73,16 @@
 
 ### 2023.3.12
 
-[ChatAPI](https://github.com/XksA-me/ChatGPT-3.5-API/tree/master/ChatAPI)
-
-**开发ing:**（预计本周上线）
+[ChatAPI](https://github.com/XksA-me/ChatGPT-3.5-API/tree/master/ChatAPI
 
 - 基于flask，构建 chatgpt api
 - 支持根据用户账号密码自动生成 token
 - 支持限制单用户每日访问次数
 - 支持设置token有效期
 
-**下一步开发计划:**(预计下周上线)
-
 ChatWEB
+
+**开发ing:**（预计本周上线）
 
 - 基于 pywebio/streamlit 的web 页面应用
 
