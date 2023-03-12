@@ -73,7 +73,7 @@
 
 ### 2023.3.12
 
-[ChatAPI](https://github.com/XksA-me/ChatGPT-3.5-API/tree/master/ChatAPI
+[ChatAPI](https://github.com/XksA-me/ChatGPT-3.5-API/tree/master/ChatAPI)
 
 - 基于flask，构建 chatgpt api
 - 支持根据用户账号密码自动生成 token
