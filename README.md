@@ -47,7 +47,7 @@
 
 [ChatAPI 运行说明](https://github.com/XksA-me/ChatGPT-3.5-API/blob/master/ChatAPI/README.md)
 
-[ChatCMD 运行说](https://github.com/XksA-me/ChatGPT-3.5-API/blob/master/ChatCMD/README.md)
+[ChatCMD 运行说明](https://github.com/XksA-me/ChatGPT-3.5-API/blob/master/ChatCMD/README.md)
 
 ## 更多拓展
 
@@ -71,7 +71,7 @@
 - 仅实现 Python 控制台应用
   程序代码文件：[chat-cmd.py](https://github.com/XksA-me/ChatGPT-3.5-API/blob/master/ChatCMD/chat-cmd.py)
 
-### 2023.3.x
+### 2023.3.12
 
 [ChatAPI](https://github.com/XksA-me/ChatGPT-3.5-API/tree/master/ChatAPI)
 

@@ -56,7 +56,7 @@ Press CTRL+C to quit
 '''
 ```
 
-更多项目代码说明请看：[chatapi_test.ipynb]() 和 [【详细教程02】手把手教你使用 Python 实现一个 ChatGPT API 接口]()
+更多项目代码说明请看：[chatapi_test.ipynb](https://github.com/XksA-me/ChatGPT-3.5-API/blob/master/ChatAPI/chatapi_test.ipynb) 和 [【详细教程02】手把手教你使用 Python 实现一个 ChatGPT API 接口](https://github.com/XksA-me/ChatGPT-3.5-API/blob/master/blog/%E3%80%90%E8%AF%A6%E7%BB%86%E6%95%99%E7%A8%8B02%E3%80%91%E6%89%8B%E6%8A%8A%E6%89%8B%E6%95%99%E4%BD%A0%E4%BD%BF%E7%94%A8%20Python%20%E5%AE%9E%E7%8E%B0%E4%B8%80%E4%B8%AA%20ChatGPT%20API%20%E6%8E%A5%E5%8F%A3.md)
 
 ## 更多拓展
 

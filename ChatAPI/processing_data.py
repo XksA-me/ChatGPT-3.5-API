@@ -209,14 +209,13 @@ def get_config():
     return configs
 
 if __name__=="__main__":
-    # # 初始化数据库
-    # init_db()
-    # # 初始化用户表
-    # data_file = './file/user.csv'
-    # update_data(data_file)
-    # # 检查数据表结构和数据内容
-    # check_db()
-
+    # 初始化数据库
+    init_db()
+    # 初始化用户表
+    data_file = './file/user.csv'
+    update_data(data_file)
+    # 检查数据表结构和数据内容
+    check_db()
     # 测试通过用户名查找用户信息
-    print(get_user("chatweb2"))
+    print("chatweb2: ", get_user("chatweb2"))
     
